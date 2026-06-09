@@ -33,4 +33,6 @@ Through this project, I practiced:
 
 ## Preview
 
+https://rps-sedaimanish.vercel.app/
+
 This project was created to improve my JavaScript skills by building a fun and interactive game.
